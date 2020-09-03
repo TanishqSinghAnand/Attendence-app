@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "YPS Mohali Attendance",
+    "slug": "snack-6f849d0c-2609-4d76-ace7-9f590ce9eb13",
+    "version": "1.0.5",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "package":"com.testuser.ypsmohaliattendenceappbytanishq"
+    },
+    "android": {
+      "package":"com.testuser.ypsmohaliattendenceappbytanishq"
+    }
+  }
+}
